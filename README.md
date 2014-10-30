@@ -1,4 +1,4 @@
-luther
+Luther
 ======
 
 Project Luther
